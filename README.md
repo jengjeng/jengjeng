@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeng</h1>
-<h3 align="center">A passionate full-stack developer from Thailand</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 - 💬 Ask me about **react, vue, nodejs, ruby, and go**
 
